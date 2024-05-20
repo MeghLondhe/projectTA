@@ -1604,6 +1604,28 @@ Contact Style
   opacity: 0.8;
 }
 
+
+
+.enroll-btn {
+  border: none;
+  height: 50px;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #fff;
+  padding: 0px 25px;
+  border-radius: 25px;
+  color: #7a6ad8;
+  transition: all .4s;
+  position: relative;
+  z-index: 3;
+}
+
+.enroll-btn:hover {
+  opacity: 0.8;
+}
+
+
+
 .contact-us-content .more-info {
   text-align: center;
   background: rgb(85,0,227);
